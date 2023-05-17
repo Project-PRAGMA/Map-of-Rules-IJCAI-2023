@@ -1,0 +1,2 @@
+size;num_candidates;num_voters;culture_id;params;color;alpha;family_id;label;marker;path
+1000;100;100;urn_partylist;{'g': 10};red;1;partylist;Partylist;o;{'variable': 'alpha', 'extremes': True}

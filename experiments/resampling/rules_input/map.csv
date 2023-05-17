@@ -1,0 +1,2 @@
+size;num_candidates;num_voters;culture_id;params;color;alpha;family_id;label;marker;path
+1000;100;100;resampling;{'p': 0.1};grey;1;resampling;Resampling;o;{'variable': 'phi', 'extremes': True}

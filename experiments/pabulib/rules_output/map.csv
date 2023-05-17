@@ -1,0 +1,17 @@
+size;num_candidates;num_voters;culture_id;params;color;alpha;label;marker;show;path;family_id
+1;100;100;av;{'p': 0.3};black;1;av;o;t;{};av
+1;100;100;pav;{'p': 0.3};black;1;pav;o;t;{};pav
+1;100;100;seqpav;{'p': 0.3};black;1;seqpav;o;t;{};seqpav
+1;100;100;sav;{'p': 0.3};black;1;sav;o;t;{};sav
+1;100;100;slav;{'p': 0.3};black;1;slav;o;t;{};slav
+1;100;100;seqslav;{'p': 0.3};black;1;seqslav;o;t;{};seqslav
+1;100;100;greedy-monroe;{'p': 0.3};black;1;greedy-monroe;o;t;{};greedy-monroe
+1;100;100;rule-x;{'p': 0.3};black;1;rule-x;o;t;{};rule-x
+1;100;100;seqphragmen;{'p': 0.3};black;1;seqphragmen;o;t;{};seqphragmen
+1;100;100;geom2;{'p': 0.3};black;1;geom2;o;t;{};geom2
+1;100;100;geom3;{'p': 0.3};black;1;geom3;o;t;{};geom3
+1;100;100;geom4;{'p': 0.3};black;1;geom4;o;t;{};geom4
+1;100;100;geom5;{'p': 0.3};black;1;geom5;o;t;{};geom5
+1;100;100;cc;{'p': 0.3};black;1;cc;o;t;{};cc
+1;100;100;seqcc;{'p': 0.3};black;1;seqcc;o;t;{};seqcc
+1;100;100;minimaxav;{'p': 0.3};black;1;minimaxav;o;t;{};minimaxav
