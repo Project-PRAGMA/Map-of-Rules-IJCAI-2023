@@ -1,4 +1,4 @@
-Supplementary Material for "An Experimental Comparison of Multiwinner Voting Rules on Approval Elections" (submission ID = 4172)
+Supplementary Material for "An Experimental Comparison of Multiwinner Voting Rules on Approval Elections" 
 
 ====================
 
